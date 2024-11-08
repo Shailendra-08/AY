@@ -1,0 +1,4 @@
+gini index for outlook: 0.59375
+gini index for humidity: 0.46875
+gini index for wind: 0.375
+gini index for play: 0.5
